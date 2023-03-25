@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966](https://user-images.githubusercontent.com/128669654/227705222-ff0cc624-87df-4485-94f2-781675f751f3.gif) Hi there 👋 I am Somen Ghosh
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!+;A+Computer+Science+Engineering)](https://git.io/typing-svg)
 <!--
 **GhoshSomen/GhoshSomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
