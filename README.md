@@ -1,5 +1,7 @@
 ### ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966](https://user-images.githubusercontent.com/128669654/227705222-ff0cc624-87df-4485-94f2-781675f751f3.gif) <h1 align="center">Hi 👋, I'm Somen Ghosh</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&pause=1000&width=435&lines=Welcome+to+my+GitHub+prrofile!;A+Computer+Science+Engineering+Student.)](https://git.io/typing-svg)
+<!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghoshsomen&label=Profile%20views&color=0e75b6&style=flat" alt="ghoshsomen" /> </p>
 
@@ -21,8 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshsomen&show_icons=true&locale=en&layout=compact" alt="ghoshsomen" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&pause=1000&width=435&lines=Welcome+to+my+GitHub+prrofile!;A+Computer+Science+Engineering+Student.)](https://git.io/typing-svg)
-<!--
+
 **GhoshSomen/GhoshSomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
