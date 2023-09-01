@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   </a>
   <a href="https://git-scm.com//" target="_blank">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/git-scm-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   </a>
   
     
