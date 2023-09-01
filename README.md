@@ -60,7 +60,7 @@
  
 <p>
     <a href="https://www.hackerrank.com/dashboard" target="_blank"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-    <a href="(https://www.codechef.com/users/somenghosh_456)" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/somenghosh_456" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ### 👉 Operating Systems
@@ -114,3 +114,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhoshSomen&show_icons=true&locale=en&theme=tokyonight" alt="GhoshSomen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshSomen&&theme=tokyonight" alt="GhoshSomen" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tulpen+One&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You+For++Visiting!!" alt="Typing SVG" /></a>
+Credits: [Somen ghosh](https://github.com/GhoshSomen)
