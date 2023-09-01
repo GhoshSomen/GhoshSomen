@@ -32,11 +32,13 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
+
 ### 👉 Frontend Development
    <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
    </p>
+   
 ### 👉 Databases
  
 <p align="left">
@@ -64,33 +66,22 @@
    <a href="https://www.canva.com/en_in/" target="_blank"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
       alt="Canva"/>
+    
    ### 👉 Competitive Programming & Problem Solving
  
 <p>
     <a href="https://leetcode.com/karansuman//" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
     <a href="https://www.hackerrank.com/karansuman_chem" target="_blank"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
     <a href="https://www.codechef.com/users/sumankaran" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-    <a href="(https://auth.geeksforgeeks.org/user/karansumanchem/practice)" target="_blank"><img alt = "GeeksForGeeks" src="![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)" /></a>
 </p>
 
 ### 👉 Operating Systems
 
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
- 
 <p>
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
+
  ### 👉 Preferred IDEs  & Tools
  
 <p>
@@ -113,7 +104,7 @@
   
    
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=GhoshSomen&&theme=xcode)](https://github.com/GhoshSomen)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
