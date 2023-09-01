@@ -88,7 +88,7 @@
   
 <h2>Lets  Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/somen-ghosh-a9ba28207/"><img alt="Linkedin" title="Somen Ghosh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/ghoshsomen"><img alt="Linkedin" title="Somen Ghosh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/GhoshSomen"><img alt="Github" title="Somen Ghosh Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/somen.ghosh.982845?mibextid=9R9pXO/"><img alt="Facebook" title="Sømëñ Ghösh FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/somenghosh2191/"><img alt="Instagram" title="Somen Ghosh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -116,4 +116,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshSomen&&theme=tokyonight" alt="GhoshSomen" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tulpen+One&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You+For++Visiting!!" alt="Typing SVG" /></a>
+
+
 Credits: [Somen ghosh](https://github.com/GhoshSomen)
