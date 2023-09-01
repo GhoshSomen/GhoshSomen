@@ -106,8 +106,7 @@
       
   
    
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=GhoshSomen&&theme=xcode)](https://github.com/GhoshSomen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhoshSomen&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhoshSomen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GhoshSomen" /></p>
 
