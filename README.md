@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/Somen_CSE" target="blank"><img src="https://img.shields.io/twitter/follow/Somen_CSE?logo=twitter&style=for-the-badge" alt="Somen_CSE"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **web devlopment**
@@ -88,6 +86,18 @@
   </a>
   <a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717" alt="GitHub" height="50" /></a>
   
+<h2>Lets  Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
+<p align="center">
+  <a href="https://https://www.linkedin.com/in/somen-ghosh-a9ba28207/"><img alt="Linkedin" title="Somen Ghosh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/GhoshSomen"><img alt="Github" title="Somen Ghosh Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.facebook.com/somen.ghosh.982845?mibextid=9R9pXO/"><img alt="Facebook" title="Sømëñ Ghösh FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/somenghosh2191/"><img alt="Instagram" title="Somen Ghosh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:somenghosh2468@gmail.com"><img alt="Gmail" title="Somen Ghosh Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://web.telegram.org/k/"><img alt="Telegram" title="Somen Ghosh Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://twitter.com/Somen_CSE"><img alt="Twitter" title="Somen Ghosh Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>  
     
 </p>
 <br/>
@@ -99,8 +109,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=GhoshSomen&&theme=xcode)](https://github.com/GhoshSomen)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhoshSomen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GhoshSomen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhoshSomen&show_icons=true&locale=en&theme=tokyonight" alt="GhoshSomen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshSomen&&theme=tokyonight" alt="GhoshSomen" /></p>
