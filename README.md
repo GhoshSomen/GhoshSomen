@@ -2,9 +2,8 @@
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi, This is Somen Ghosh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile+!!+;A+Computer+Science+Engineering+Student;Programming+Enthusiast;A+Frontend+Web+Developer;Fond+of+New+Technologies" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Web Developer from India</h3>
-<p> align="center">Able to perform well in a team</p>
   
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GhoshSomen&label=Profile%20views&color=0e75b6&style=flat" alt="GhoshSomen" /> </p>
