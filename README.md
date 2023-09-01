@@ -37,6 +37,7 @@
    <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
    </p>
    
 ### 👉 Databases
@@ -45,24 +46,14 @@
  <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="Mysql"/>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-      <a href="https://www.oracle.com/in/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"
-      alt="Oracle"/> 
-         
+  
  ### 👉 Design
  <p align="left">
  
   <a href="https://www.adobe.com/in/products/photoshop/" target="_blank"> 
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
       alt="Adobe PhotoShop"/>  
-    
-   <a href="https://www.figma.com/design/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-      alt="Figma"/>  
-    
+   
    <a href="https://www.canva.com/en_in/" target="_blank"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"
       alt="Canva"/>
@@ -70,9 +61,8 @@
    ### 👉 Competitive Programming & Problem Solving
  
 <p>
-    <a href="https://leetcode.com/karansuman//" target="_blank"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-    <a href="https://www.hackerrank.com/karansuman_chem" target="_blank"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-    <a href="https://www.codechef.com/users/sumankaran" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/dashboard" target="_blank"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+    <a href="(https://www.codechef.com/users/somenghosh_456)" target="_blank"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ### 👉 Operating Systems
@@ -92,6 +82,9 @@
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+  </a>
+  <a href="https://git-scm.com//" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   </a>
   
