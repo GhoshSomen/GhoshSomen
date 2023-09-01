@@ -84,9 +84,9 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   </a>
-  <a href="https://git-scm.com//" target="_blank">
-    <img src="https://img.shields.io/badge/git-scm-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
   </a>
+  <a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717" alt="GitHub" height="50" /></a>
   
     
 </p>
