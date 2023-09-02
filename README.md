@@ -113,4 +113,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&pause=1000&center=true&vCenter=true&width=435&lines=Thank+You+For++Visiting!!" alt="Typing SVG" /></a>
 
 
-Credits: [Somen ghosh](https://github.com/GhoshSomen)
+Credits: [Somen Ghosh](https://github.com/GhoshSomen)
