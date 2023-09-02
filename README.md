@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
   </a>
  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://img.shields.io/badge/sublimetext-2C2255.svg?style=for-the-badge&logo=sublimetext&logoColor=white" alt="sublimetext"/> 
+    <img src="https://img.shields.io/badge/sublimetext-#4C4C4C.svg?style=for-the-badge&logo=sublimetext&logoColor=white" alt="sublimetext"/> 
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
