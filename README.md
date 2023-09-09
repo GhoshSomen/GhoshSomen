@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile+!!+;A+Computer+Science+Engineering+Student;Programming+Enthusiast;A+Frontend+Web+Developer;Fond+of+New+Technologies" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Web Developer from India</h3>
   
-<img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GhoshSomen&label=Profile%20views&color=0e75b6&style=flat" alt="GhoshSomen" /> </p>
@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I am Funny :grin:**
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -85,7 +85,10 @@
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
   </a>
   <a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717" alt="GitHub" height="50" /></a>
-  
+  </p>
+<br/>
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"><br><br>
 <h2>Lets  Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="center">
   <a href="www.linkedin.com/in/ghoshsomen"><img alt="Linkedin" title="Somen Ghosh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
