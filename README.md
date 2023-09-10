@@ -87,7 +87,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 <h2>Lets  Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="left">
-  <a href="www.linkedin.com/in/ghoshsomen"><img alt="Linkedin" title="Somen Ghosh Linkedin" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"></a>
+  <a href="https://www.linkedin.com/in/ghoshsomen"><img alt="Linkedin" title="Somen Ghosh Linkedin" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"></a>
   <a href="https://github.com/GhoshSomen"><img alt="Github" title="Somen Ghosh Github" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"></a>
   <a href="https://www.facebook.com/somen.ghosh.982845?mibextid=9R9pXO/"><img alt="Facebook" title="Sømëñ Ghösh FB" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"></a>
   <a href="https://www.instagram.com/somenghosh2191/"><img alt="Instagram" title="Somen Ghosh Instagram" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40"></a>
