@@ -33,9 +33,9 @@
 
 ### 👉 Frontend Development
    <p>
-    <a href="#"><img alt="HTML" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="43"></a>
-    <a href="#"><img alt="CSS" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="43"></a>
-    <a href="#"><img alt="Bootstrap" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="43"</a>
+    <a href="#"><img alt="HTML" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="45"></a>
+    <a href="#"><img alt="CSS" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="45"></a>
+    <a href="#"><img alt="Bootstrap" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="45"</a>
    </p>
    
 ### 👉 Databases
@@ -81,9 +81,11 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   </a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-  </a>
-  <a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/GitHub/#181717" alt="GitHub" height="50" /></a>
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>   </a>
+  <a href="https://www.GitHub.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+ ### 👉 Learning
+ <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 <h2>Lets  Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> </h2>
 <p align="left">
@@ -92,6 +94,7 @@
   <a href="https://www.facebook.com/somen.ghosh.982845?mibextid=9R9pXO/"><img alt="Facebook" title="Sømëñ Ghösh FB" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40"></a>
   <a href="https://www.instagram.com/somenghosh2191/"><img alt="Instagram" title="Somen Ghosh Instagram" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40"></a>
  <a href="mailto:somenghosh2468@gmail.com"><img alt="Gmail" title="Somen Ghosh Gmail" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"width="40" height="25" alt="gmail 1ogo"></a>
+  <a href="https://wa.me/+918348780751"><img alt="WhatsApp" title="Somen Ghosh WhatsApp" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="40"></a>
   <a href="https://web.telegram.org/k/"><img alt="Telegram" title="Somen Ghosh Telegram" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"width="40" height="30" alt="telegram 1ogo"></a> 
 <a href="https://twitter.com/Somen_CSE"><img alt="Twitter" title="Somen Ghosh Twitter" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="40"></a>
 </p>  
